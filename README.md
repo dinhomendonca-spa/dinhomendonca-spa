@@ -1,53 +1,67 @@
-# Jadson Freire de Mendonça
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Jadson Mendonça — Desenvolvedor Front-end. React, Next.js e TypeScript. Oportunidades júnior e trabalho remoto no Brasil." />
+</p>
 
-**Desenvolvedor Web | React, Next.js e TypeScript**
+<p align="center">
+  <a href="https://www.linkedin.com/in/jadson-mendonca/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:dinho_mendonca@icloud.com">E-mail</a> &nbsp;·&nbsp;
+  <a href="https://visiteminhaloja.online/loja/loja-ai-demonstracao">Demonstração do Loja AI</a>
+</p>
 
-Sou bacharel em Sistemas de Informação e desenvolvo aplicações web com foco em interfaces, integração de APIs e automação com inteligência artificial.
+# Olá, sou o Jadson
 
-Busco oportunidades como **desenvolvedor júnior**, com interesse em trabalho remoto.
+**Desenvolvedor Front-end Júnior · React · Next.js · TypeScript**
+
+Sou bacharel em **Sistemas de Informação pela Estácio** e curso **Técnico em Desenvolvimento de Sistemas no SENAI**. Desenvolvo projetos próprios de aplicações web com interfaces responsivas, integração de APIs e persistência de dados.
+
+Minha experiência como desenhista contribui para o cuidado com composição visual e apresentação das interfaces. Busco oportunidades **remotas no Brasil** como **Front-end Developer Júnior**, com interesse também em posições Full Stack Júnior compatíveis com minha prática.
+
+## Tecnologias que utilizo nos projetos
+
+| Área | Tecnologias |
+| :--- | :--- |
+| Interfaces | React.js, Next.js, TypeScript, JavaScript, HTML, CSS e Tailwind CSS |
+| Integrações e dados | Route Handlers do Next.js, APIs HTTP/REST, Supabase e PostgreSQL |
+| IA e automação | Ollama, Qwen, Python, Faster Whisper e WhatsApp Cloud API |
+| Versionamento | Git e GitHub |
 
 ## Projetos em destaque
 
-### Loja AI — Loja online e cardápio digital
+### 01 · Loja AI
 
-Aplicação para comerciantes gerenciarem produtos e apresentarem seu catálogo em uma loja online.
+**Loja online e cardápio digital para pequenos negócios.**
 
-- Autenticação e painel de gestão.
-- Cadastro de produtos e configuração da loja.
-- Vitrine pública, carrinho e checkout.
-- Integração com Supabase para persistência dos dados.
+Reúne o gerenciamento de produtos e uma vitrine para o cliente consultar o catálogo, montar o carrinho e preencher os dados do pedido.
 
-**Tecnologias:** Next.js, React, TypeScript, Tailwind CSS e Supabase.
+- Painel administrativo, cadastro de produtos e configuração da loja.
+- Autenticação, persistência e armazenamento de imagens com Supabase.
+- Catálogo com categorias, carrinho e fluxo de checkout.
+- Verificações manuais de navegação e ajustes de contraste e legibilidade.
 
-[Explorar a loja de demonstração](https://visiteminhaloja.online/loja/loja-ai-demonstracao) · [Ver código e documentação](https://github.com/dinhomendonca-spa/cardapio-ai)
+**Stack:** React · Next.js · TypeScript · Tailwind CSS · Supabase
 
-### Atende AI — Assistente comercial com IA local
+[**Abrir demonstração →**](https://visiteminhaloja.online/loja/loja-ai-demonstracao) &nbsp; [Código e documentação](https://github.com/dinhomendonca-spa/cardapio-ai)
 
-Aplicação para organizar leads, consultar conversas e responder a mensagens recebidas pelo WhatsApp com a assistente Lia.
+### 02 · Atende AI
 
-- Cadastro de leads e acompanhamento do funil comercial.
-- Histórico de conversas armazenado no Supabase.
-- Integração com WhatsApp Cloud API.
-- Respostas com Ollama e Qwen.
-- Transcrição de áudio com Python e Faster Whisper.
-- Monitor de atendimento em tempo real com SSE.
+**Assistente comercial com IA local e integração ao WhatsApp.**
 
-**Tecnologias:** Next.js, TypeScript, Supabase, Python, Ollama e WhatsApp Cloud API.
+Centraliza leads e histórico de conversas para apoiar o atendimento de pequenos negócios com a assistente Lia.
 
-**Demonstração atual:** execução local. O README apresenta a instalação, a arquitetura e as melhorias planejadas.
+- Painel de leads, conversas e configurações comerciais.
+- Integração com WhatsApp Cloud API e persistência no Supabase/PostgreSQL.
+- Respostas com Ollama/Qwen e transcrição de áudio com Python/Faster Whisper.
+- Monitoramento do atendimento em tempo real com Server-Sent Events (SSE).
 
-[Ver código e documentação](https://github.com/dinhomendonca-spa/atende-ai)
+**Stack:** React · Next.js · TypeScript · Supabase · Python · Ollama
 
-## Tecnologias utilizadas nos projetos
+**Demonstração atual:** execução local. O repositório descreve a instalação, o funcionamento e as melhorias planejadas.
 
-| Área | Tecnologias |
-| --- | --- |
-| Frontend | React, Next.js, TypeScript e Tailwind CSS |
-| Backend e dados | Route Handlers, APIs HTTP e Supabase / PostgreSQL |
-| IA e automação | Python, Ollama, Qwen e Faster Whisper |
-| Versionamento | Git e GitHub |
+[**Explorar código e documentação →**](https://github.com/dinhomendonca-spa/atende-ai)
 
-## Formação
+## Formação e contato
 
-- Bacharelado em Sistemas de Informação — Estácio, concluído em 2019.
-- Técnico em Desenvolvimento de Sistemas — SENAI, em andamento.
+- **Bacharelado em Sistemas de Informação** — Estácio, concluído em 2019.
+- **Técnico em Desenvolvimento de Sistemas** — SENAI, em andamento.
+- **São Pedro da Aldeia, RJ** — disponibilidade para trabalho remoto no Brasil.
+- **Contato:** [dinho_mendonca@icloud.com](mailto:dinho_mendonca@icloud.com) · [LinkedIn](https://www.linkedin.com/in/jadson-mendonca/)
